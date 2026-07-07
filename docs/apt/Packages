@@ -4,14 +4,14 @@ Version: 0.9.5
 Priority: optional
 Section: misc
 Maintainer: pollomax847 <pollomax847@users.noreply.github.com>
-Installed-Size: 190388
+Installed-Size: 190240
 Provides: opentagger
 Depends: libasound2t64, libbrotli1, libbsd0, libbz2-1.0, libc6, libfreetype6, libgcc-s1, libgif7, libglib2.0-0t64, libgraphite2-3, libharfbuzz0b, libjpeg-turbo8, liblcms2-2, libmd0, libpcre2-8-0, libpcsclite1, libpng16-16t64, libstdc++6, libx11-6, libxau6, libxcb1, libxdmcp6, libxext6, libxi6, libxrender1, libxtst6, xdg-utils, zlib1g , ffmpeg
 Filename: ./opentagger_0.9.5_amd64.deb
-Size: 62899620
-MD5sum: 8c3918e5286f997755693b9bcaaf38f6
-SHA1: d68708bf8b5b424d973f1896c40178aae2cc9bef
-SHA256: a91f2e6dd3902ade202e47a51909b200872076fb4c540b980b58a22828b1f229
-SHA512: 1ed560bb8c39ea27cd656d18cc241ae859e97d9337f05c7d342bcad551ef97891948a62b2473e9672ac57a4f5a7d954baacaa24375c38e2fc7b85575a3dc9b5e
+Size: 62917032
+MD5sum: 79e783673da8ca42aec8e77ada84ddc5
+SHA1: 004093c01b6d5f15787aeaec6005f41f056d2b76
+SHA256: 8822e926b91e9bf49c54756a11944b19dc0650e4fd24c0f8c439bfd4a2d38cd7
+SHA512: 58f9bbda61cd0701289ba6c92611e6339bdfff734cdfa86204235b55fe5010047841c2fc5204707b6f94c0d1fe218b3ff5da475d19687a969315b18fdba84453
 Description: OpenTagger
 
